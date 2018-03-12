@@ -22,7 +22,7 @@ public class TestClassTest {
     }
     @BeforeClass
 public static void beforeClassTest(){
-System.out.println("before une seusjkfle fois");
+System.out.println("before une seusjkfle foisssssssss");
 }
     @Before
 public void beforeTest(){
